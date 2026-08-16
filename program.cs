@@ -1,1 +1,1 @@
-Console.WriteLine("DOTNET 10.x")
+Console.WriteLine("DOTNET 10.x");
