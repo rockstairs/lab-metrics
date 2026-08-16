@@ -1,0 +1,1 @@
+Console.WriteLine("DOTNET 10.x")
